@@ -1,5 +1,5 @@
 # Microscripts
-These are some of my micro level, quality of life scripts I use on the daily/weekly. They're tailored to my specific useage and I whip them up kind of quickly, but hopefully someone finds them useful.
+These are some of my micro level, quality of life scripts I use on the daily/weekly. They're tailored to my specific useage and I whip them up kind of quickly, but hopefully someone finds them useful. 
 
 ## loginator
 A .tsv file is generated every hour, so this concatenates them into one big text file. Set the input and output folder and run.

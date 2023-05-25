@@ -9,3 +9,6 @@ My company uses Nitro to convert images into pdf files, but it's slow and crashe
 
 ## logininator
 Not to be confused with loginator. Opens the two sites I use every morning. Quite shoddy. It doesn't work how I want because it closes the browser window when the script is done, unless I have input('Press ENTER to exit) but the console window is annoying. But it's fun to practice with Selenium and uc options.
+
+## reportinator
+My company downloads a salesforce report semiweekly to use for analysis. This script runs twice a week, downloads the needed reports, and replaces the old reports with a new file and updated file name on our shared drive. I took out the duplicate code for the other reports and just kept one.
